@@ -1,0 +1,23 @@
+{
+  "name": "webext-googleredirectunwrap",
+  "version": "0.0.1",
+  "description": "A WebExtension to unwrap Google redirect urls",
+  "scripts": {
+    "start": "web-ext run",
+    "lint": "web-ext lint",
+    "build": "web-ext build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drmercer/webext-familysearchfixes.git"
+  },
+  "author": "Dan Mercer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drmercer/webext-familysearchfixes/issues"
+  },
+  "homepage": "https://github.com/drmercer/webext-familysearchfixes#readme",
+  "devDependencies": {
+    "web-ext": "^2.8.0"
+  }
+}
